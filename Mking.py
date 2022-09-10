@@ -460,7 +460,7 @@ def first():
 
 			if len(nmf)<6:
 
-				if len(frs)<3:
+				if len(frs)<6:
 
 					pass
 
